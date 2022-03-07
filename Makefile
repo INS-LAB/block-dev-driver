@@ -1,6 +1,6 @@
 obj-m = vrd_dd.o
 
-KDIR := /home/inslab-test-server/git/rpi_kernel/linux
+KDIR := # Please, insert the Rpi kernel directory path
 PWD := $(shell pwd)
  
 default:
